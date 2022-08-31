@@ -1094,7 +1094,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │
 └───────•
 
-_No NSFW Content <3_
+Owner Ferry isnawan
 `
                 let btn = [ {
                                 quickReplyButton: {
