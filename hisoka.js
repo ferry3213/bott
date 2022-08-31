@@ -1063,9 +1063,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ┌──• *Main Menu*
 │
 │.ping
-│.owner
 │.menu / help / ?
-│.quoted
 │.listonline
 │
 └───────•
@@ -1093,7 +1091,6 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │.tupai
 │
 └───────•
-
 Owner Ferry isnawan
 `
                 let btn = [ {
